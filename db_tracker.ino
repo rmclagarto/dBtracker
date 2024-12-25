@@ -5,9 +5,9 @@
 const unsigned int sensor = 34;
 
 // Configurações de rede Wi-Fi
-const char *ssid = "Rrt";
-const char *pass = "rx250702lx";
-const char *host = "192.168.50.180";
+const char *ssid = "";
+const char *pass = "";
+const char *host = "";
 const unsigned int porta = 8080;
 WiFiClient client;
 
